@@ -7,14 +7,6 @@ items:
   name: Schedule
   icon_class: fas fa-calendar-alt
 
-- url: /lectures/
-  name: Lectures
-  icon_class: fas fa-book-reader
-
-- url: /modules/
-  name: modules
-  icon_class: fas fa-tasks
-
 - url: /project/
   name: Project
   icon_class: fas fa-window-maximize
