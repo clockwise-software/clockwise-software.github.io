@@ -11,7 +11,7 @@ permalink: /materials/
 ### Team Contract
 Cardiff University has some wonderful materials on [team contracts](https://www.dropbox.com/s/3izv0i4a901fn03/CM6223%20-%201%20-%20Daily%20Diary%20-%20CUESIP%20Guidelines.pdf?dl=0), and a [base code of conduct](https://www.dropbox.com/s/idm0y1f0qysjcrr/CM6223%20-%201%20-%20Daily%20Diary%20-%20CUESIP%20Code%20Of%20Conduct.pdf?dl=0) .
 
-Create a team contract within your github wiki ([[contract|contract]], create a [[home page|home]] as well?)
+Create a team contract within your github wiki (contract, create a home as well?)
 
 Your team contract should contain the following:
 | Topic | Details |
@@ -28,7 +28,7 @@ Another item to consider: team member constraints (how much time can team member
 
 Our development environment is built on [Gitpod](https://www.gitpod.io).
 
-You should create a branch of your team's project ([cobalt](https://github.com/clockwise-software/cobalt), [copper](https://github.com/clockwise-software/copper), [zinc](https://github.com/clockwise-software/zinc), [platinum](https://github.com/clockwise-software/platinum) called `yourlastname-gitpod-exploration`
+You should create a branch of your team's project ([cobalt](https://github.com/clockwise-software/cobalt), [copper](https://github.com/clockwise-software/copper), [zinc](https://github.com/clockwise-software/zinc), [platinum](https://github.com/clockwise-software/platinum)) called `yourlastname-gitpod-exploration`
 
 Familiarize yourself with the gitpod environment.
 In your open branch, launch gitpod 
