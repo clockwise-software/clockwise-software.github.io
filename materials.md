@@ -40,7 +40,7 @@ Don't have access to GitPod? Ask your near-peer mentor!
 
 ### Client Meeting Prep
 
-Look over the [Industry need/challenge](https://github.com/clockwise-software/copper/tree/marcus_demo#industry-challenge) and brainstorm in your group what you can do and how you can extend this base environment. What question do you have for the client? 
+Look over the [Industry need/challenge](https://github.com/clockwise-software/base-environment#industry-challenge) and brainstorm in your group what you can do and how you can extend this base environment. What question do you have for the client? 
 
 ### Planning
 You should create / plan tasks using the github project area (e.g.,https://github.com/clockwise-software/{teamname}/projects/)
