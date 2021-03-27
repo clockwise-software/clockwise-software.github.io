@@ -14,20 +14,50 @@ layout: default
             <div class="col col-1">Event</div>
             <div class="col col-1-2">Date</div>
             <div class="col col-2">Description</div>
-            <div class="col col-4">Course Material</div>
+            <div class="col col-4">Format</div>
         </li>
 
-        {% assign all_module_dues = site.modules | map: "due_event" %}
-
-        {% assign all_events = all_events | concat: site.modules %}
-
-        {% assign all_events_sorted = all_events | sort: 'date' %}
-
-        {% for event in all_events_sorted %}
-        <li class="table-row table-row-{{ event.type}}">
-            {% include schedule_row_{{ event.type }}.html event=event %}
+        <li class="table-row">
+            <div class="col col-1">Welcome/Kickoff</div>
+            <div class="col col-1-2" data-label="Date">Sat 27th @ 930AM </div>
+            <div class="col col-2" data-label="Description">Meet and Greet </div>
+            <div class="col col-4 markdown-content">Full Group on Zoom</div>
         </li>
-        {% endfor %}
-
+        
+        <li class="table-row">
+            <div class="col col-1">Overview of the Bootcamp</div>
+            <div class="col col-1-2" data-label="Date">Sat 27th @ 10AM </div>
+            <div class="col col-2" data-label="Description">Level Set / Daily Charge </div>
+            <div class="col col-4 markdown-content">Full Group</div>
+        </li>
+        
+        <li class="table-row">
+            <div class="col col-1">Group Work</div>
+            <div class="col col-1-2" data-label="Date">Sat 27th @ ~1030AM- </div>
+            <div class="col col-2" data-label="Description">Tasks: Team Contract, Environment (GitHub + GitPod), Project Talk/Brainstorm, Client Prep</div>
+            <div class="col col-4 markdown-content">Team Focused</div>
+        </li>
+        
+        
+        <li class="table-row">
+            <div class="col col-1">Option Lunch and Learn</div>
+            <div class="col col-1-2" data-label="Date">Sat 27th @ ~11AM-Noon </div>
+            <div class="col col-2" data-label="Description">Various / Day 1 - Open Technical Q&A</div>
+            <div class="col col-4 markdown-content">Optional, Breakout Room</div>
+        </li>
+        
+        <li class="table-row">
+            <div class="col col-1">1:1 Client Meetings</div>
+            <div class="col col-1-2" data-label="Date">Sat 27th @ 2PM-3PM </div>
+            <div class="col col-2" data-label="Description">2:00-2:15 - Copper <br> 2:15-2:30 - Zinc<br> 2:30-2:45 - Cobalt <br>2:45-3:00 - Platinum; Ask TriHydro, your industry client, about their needs, expectations, and vision.</div>
+            <div class="col col-4 markdown-content">1:1 Teams w/Client</div>
+        </li> 
+        
+             <li class="table-row">
+            <div class="col col-1">Closing</div>
+            <div class="col col-1-2" data-label="Date">Sat 27th @ 3PM </div>
+            <div class="col col-2" data-label="Description">Sync, Wrap-up and Charge for the Week</div>
+            <div class="col col-4 markdown-content">Full Group</div>
+        </li> 
     </ul>
 </div>
