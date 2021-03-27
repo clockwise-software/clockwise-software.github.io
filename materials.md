@@ -14,9 +14,10 @@ Cardiff University has some wonderful materials on [team contracts](https://www.
 Create a team contract within your github wiki (contract, create a home as well?)
 
 Your team contract should contain the following:
+
 | Topic | Details |
 | --- | --- |
-|  Team Goals | What are the main goals of your team?| 
+|  Team Goals | What are the main goals of your team? | 
 |Team Objectives| What specific actions or criteria relate to these goals? How can these be measured or evaluated? |
 | Team Member Roles | What are the primary roles and responsibilities of each team member? |
 | Team Norms | What operating rules does the team need? | 
