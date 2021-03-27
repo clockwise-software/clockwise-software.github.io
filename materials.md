@@ -9,7 +9,7 @@ permalink: /materials/
 ## Day 1
 
 ### Team Contract
-Cardiff University has some wonderful materials on [team contracts](https://www.dropbox.com/s/3izv0i4a901fn03/CM6223%20-%201%20-%20Daily%20Diary%20-%20CUESIP%20Guidelines.pdf?dl=0), and a [base code of conduct](https://www.dropbox.com/s/idm0y1f0qysjcrr/CM6223%20-%201%20-%20Daily%20Diary%20-%20CUESIP%20Code%20Of%20Conduct.pdf?dl=0) .
+Cardiff University has some wonderful materials on [team contracts](https://www.dropbox.com/s/3izv0i4a901fn03/CM6223%20-%201%20-%20Daily%20Diary%20-%20CUESIP%20Guidelines.pdf?dl=0), and a [base code of conduct](https://www.dropbox.com/s/idm0y1f0qysjcrr/CM6223%20-%201%20-%20Daily%20Diary%20-%20CUESIP%20Code%20Of%20Conduct.pdf?dl=0). Successful partnerships are tricky, and they take time to develop, you can look at this [rubric](https://www.dropbox.com/s/tumvs0caa6wktow/Partnerhsip_Model_Mullinix_2001.pdf?dl=0) from Mullinix et al. which captures the partnership development continuum. 
 
 Create a team contract within your github wiki (contract, create a home as well?)
 
