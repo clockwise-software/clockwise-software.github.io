@@ -42,8 +42,15 @@ Don't have access to GitPod? Ask your near-peer mentor!
 
 Look over the [Industry need/challenge](https://github.com/clockwise-software/base-environment#industry-challenge), rewatch the video for Trihydro context and brainstorm in your group what you can do and how you can extend this base environment. What question do you have for the client? 
 
-{% include googleDrivePlayer.html id=1fHeEeSvXO7o7ZPlEQg4Psh1c0t40Xfej/preview %}
-
+<div class="embed-container">
+  <iframe
+      width="640"
+      height="480"
+      src="https://drive.google.com/file/d/1fHeEeSvXO7o7ZPlEQg4Psh1c0t40Xfej/preview"
+      frameborder="0"
+      allowfullscreen="">
+  </iframe>
+</div>
 
 ### Planning
 You should create / plan tasks using the github project area (e.g.,https://github.com/clockwise-software/{teamname}/projects/)
