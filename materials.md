@@ -15,13 +15,12 @@ Create a team contract within your github wiki (contract, create a home as well?
 
 Your team contract should contain the following:
 
-| Topic | Details |
-| --- | --- |
-|  Team Goals | What are the main goals of your team? | 
-|Team Objectives| What specific actions or criteria relate to these goals? How can these be measured or evaluated? |
-| Team Member Roles | What are the primary roles and responsibilities of each team member? |
-| Team Norms | What operating rules does the team need? | 
-|Team Member Evaluation| What criteria will be used to evaluate each member's performance?|
+
+ - Team Goals: What are the main goals of your team? 
+ - Team Objectives: What specific actions or criteria relate to these goals? How can these be measured or evaluated? 
+ - Team Member Roles: What are the primary roles and responsibilities of each team member?
+ - Team Norm: What operating rules does the team need? 
+ - Team Member Evaluation: What criteria will be used to evaluate each member's performance?
 
 Another item to consider: team member constraints (how much time can team members contribute), skills, and expectations.
 
