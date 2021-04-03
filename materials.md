@@ -26,7 +26,7 @@ permalink: /materials/
 2. Decide how, as a team, you will create, share, and/or edit your presentation document and **10 Minute presentation** 
 3. Based on prior sharing issues, figure out who in your team can do a share screen (if there are issues, reach out to a host to elevate your permissions and test sharing BEFORE the meeting)
 4. Add the presentation a) as a link to you're github markdown; 2) as a PDF in a new document folder in your repository
-5. Do a dry-run of your presentation before you're time slot - see [schedule](schedule/)
+5. Do a dry-run of your presentation before you're time slot - see [schedule](/schedule/)
 
 ### Post Client Meeting
 1. Discuss what you heard/feedback
