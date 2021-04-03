@@ -12,8 +12,8 @@ permalink: /materials/
 1. Take at least 15 minutes to regroup - given the objective of presenting a demo at ~2 PM:
  - what did you get done?, 
  - what are the open tasks?, 
- - what can you get done?
- - create and assignt tasks in github
+ - what can you get done?,
+ - create and assign tasks in github!
 
 2. Discuss as a group your top ~2-3 challenges this week. Find at least one technical challenge that you overcame and post the challenge and solution in the appropriate slack support channel!
 
