@@ -6,6 +6,34 @@ permalink: /materials/
 
 <!-- {% include image.html url="/_images/cover2.jpg" width=175 align="right" %} -->
 
+## Day 2
+
+### Team Sync ~30 minutes
+1. Take at least 15 minutes to regroup - given the objective of presenting a demo at ~2 PM:
+ - what did you get done?, 
+ - what are the open tasks?, 
+ - what can you get done?
+ - create and assignt tasks in github
+
+2. Discuss as a group your top ~2-3 challenges this week. Find at least one technical challenge that you overcame and post the challenge and solution in the appropriate slack support channel!
+
+### Work time
+1. Work on your development tasks
+2. Work on your presentation (see client meeting prep below)
+
+### Client Meeting Prep
+1. Copy this [presentation template](https://docs.google.com/presentation/d/1X3q6Vz33gmd0TAQumtm8P6EbhMSSq4pl0P1Cc29uqO8/edit?usp=sharing) which uses the [costar method](https://ttwgorg.files.wordpress.com/2019/07/ttwg-presentation-on-value-creation-methods-at-inl-costar-riis-29-may-2019-reduced.pdf)
+2. Decide how, as a team, you will create, share, and/or edit your presentation document and **10 Minute presentation** 
+3. Based on prior sharing issues, figure out who in your team can do a share screen (if there are issues, reach out to a host to elevate your permissions and test sharing BEFORE the meeting)
+4. Add the presentation a) as a link to you're github markdown; 2) as a PDF in a new document folder in your repository
+5. Do a dry-run of your presentation before you're time slot - see [schedule](schedule/)
+
+### Post Client Meeting
+1. Discuss what you heard/feedback
+2. Regroup and plan your tasks for next week
+3. Rescope as needed
+
+
 ## Day 1
 
 ### Team Contract
