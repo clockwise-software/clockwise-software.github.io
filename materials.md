@@ -5,6 +5,35 @@ permalink: /materials/
 ---
 
 <!-- {% include image.html url="/_images/cover2.jpg" width=175 align="right" %} -->
+## Day 3
+
+### Team Sync ~30 minutes
+1. Take at least 15 minutes to regroup - given the objectives of 1) getting your code base ready to 'hand-off' and 2) recording a 5-7 minute demo by ~2PM:
+ - what did you get done?, 
+ - what are the open tasks?, 
+ - what can you get done?,
+ - create and assign tasks in github!
+
+2. Find at least one technical challenge that you overcame and post the challenge and solution in the appropriate slack support channel!
+
+
+### Work Time
+1. Final Development Tasks
+2. Clean up of code base
+3. Documentation
+4. Creation/Update of Slide Deck
+5. Record Introductions
+
+### Demo Prep
+1. Consider starting with this [presentation template](https://docs.google.com/presentation/d/1X3q6Vz33gmd0TAQumtm8P6EbhMSSq4pl0P1Cc29uqO8/edit?usp=sharing) which uses the [costar method](https://ttwgorg.files.wordpress.com/2019/07/ttwg-presentation-on-value-creation-methods-at-inl-costar-riis-29-may-2019-reduced.pdf)
+2. Decide how, as a team, you will create, share, and/or edit your presentation document and **7 Minute presentation** 
+  - Consider spending ~30 seconds on C+O / ~ 1 Min on S / ~30 seconds on T / 3-5 minutes on R (demo)
+3. Based on prior sharing issues, figure out who in your team can do a share screen 
+(if there are issues, reach out to a host to elevate your permissions and test sharing BEFORE the meeting)
+4. Add the presentation a) as a link to you're github markdown; 2) as a PDF in a new document folder in your repository
+5. Add the video into your repository as well (maybe snippets at gifs?)
+6. Have your video ready to go by 2PM; **but be ready to do the demo live if your video "doesn't work"**
+
 
 ## Day 2
 
